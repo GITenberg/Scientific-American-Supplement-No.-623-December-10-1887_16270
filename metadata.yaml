@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16270#Scientific-American-Supplement-No.-623-December-10-1887
 gutenberg_bookshelf: Scientific American
 gutenberg_issued: '2005-07-12'
 gutenberg_type: Text
